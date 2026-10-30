@@ -1,0 +1,8 @@
+telethon>=1.43,<1.45
+pyrogram==2.0.106
+tgcrypto
+aiosqlite
+kvsqlite
+python-binance
+requests
+Pillow
